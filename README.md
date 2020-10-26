@@ -14,3 +14,7 @@ bash <(curl -L -s https://linken404.github.io/v2rayInstall-go.sh/go.sh)
 由于最新的v2ray安装包中已经取消了init引导文件，粗略看来只支持systemd方式的服务引导，支持CentOS7以及较新的debian系统等，尽量不要使用过旧的操作系统进行安装。
 
 以上为简单的说明，此脚本仅做粗略调整，并未深入研究，如有bug请反馈。
+
+官方新安装脚本页面：
+
+https://github.com/v2fly/fhs-install-v2ray/blob/master/README.zh-Hans-CN.md
